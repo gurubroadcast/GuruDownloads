@@ -7,7 +7,7 @@ http://www.gurubroadcast.com
 
 LICENSE
 
-This plugins are made with 
+This plugins are made with Spout2 Technology, a huge thanks to all developers, specially Lynn and Campbell Morgan !
 
 Read the License from Original Repo:
 
