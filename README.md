@@ -1,4 +1,4 @@
-# GuruDownloads
+# Gurubroadcast PRO Downloads
 Downloads for Gurubroadcast PRO for Win x64
 
 Visit our website
