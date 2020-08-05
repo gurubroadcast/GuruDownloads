@@ -1,5 +1,5 @@
 # GuruDownloads
-Downloads for Gurubroadcast PRO App
+Downloads for Gurubroadcast PRO for Win x64
 
 Visit our website
 
